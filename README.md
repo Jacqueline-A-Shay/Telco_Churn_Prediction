@@ -2,6 +2,26 @@
 
 # Data acquisition & preparation
 
+1. setup: env.py & use telco_churn dataset
+2. Initial observation of data 
+
+customer
+
+contract_type_id	contract_type
+1	                Month-to-month
+2	                One year
+3	                Two year
+
+internet_service_type_id	internet_service_type
+1	                        DSL
+2	                        Fiber optic
+3	                        None
+
+payment_type_id	payment_type
+1	              Electronic check
+2	              Mailed check
+3	              Bank transfer (automatic)
+4	              Credit card (automatic)
 
 # Questions to answer
 
