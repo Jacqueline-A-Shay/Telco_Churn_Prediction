@@ -5,23 +5,7 @@
 1. setup: env.py & use telco_churn dataset
 2. Initial observation of data 
 
-customer
 
-contract_type_id	contract_type
-1	                Month-to-month
-2	                One year
-3	                Two year
-
-internet_service_type_id	internet_service_type
-1	                        DSL
-2	                        Fiber optic
-3	                        None
-
-payment_type_id	payment_type
-1	              Electronic check
-2	              Mailed check
-3	              Bank transfer (automatic)
-4	              Credit card (automatic)
 
 # Questions to answer
 
@@ -36,5 +20,8 @@ payment_type_id	payment_type
 - If we looked at churn rate for month-to-month customers after the 12th month and that of 1-year contract customers after the 12th month, are those rates comparable?
 
 # Model
+Logistic regression algorithm 
+Features selected using chi-square test for examination of 
 # Presentation
+https://docs.google.com/presentation/d/1H5qk9D169Xa-h6PV36BCKWZC3C6Cgfi3a8V4QAKwGRU/edit#slide=id.gc6f9e470d_0_0
 
