@@ -12,6 +12,7 @@
 > paperless-billing (avg of 5 months longer tenure)
 >
 > auto payment (credit card or bank transfer) (avg of 11 months longer tenure)
+
 **May want to promote these two features more to non-contract customers due to the observed longer tenure, at NO COST for our company.**
 
 
