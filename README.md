@@ -2,8 +2,16 @@
 
 # Data acquisition & preparation
 
-1. setup: env.py & use telco_churn dataset
+1. setup: env.py & use Codeup telco_churn dataset
 2. Initial observation of data 
+
+# Important finding:
+1. Logistic regression algorithm provided a more balanced accuracy and recall rate (rather than false predict churn than not catching)
+
+2. Within the highest churning customer population - month to month (no contract), identified a correlation between longer average tenure and customers with:
+> paperless-billing (avg of 5 months longer tenure)
+> auto payment (credit card or bank transfer) (avg of 11 months longer tenure)
+May want to promote these two features more to non-contract customers due to the observed longer tenure, at NO COST for our company.
 
 
 
@@ -21,7 +29,8 @@
 
 # Model
 Logistic regression algorithm 
-Features selected using chi-square test for examination of 
+Features selected using chi-square test, t-test and/ or correlation.
+
 # Presentation
 https://docs.google.com/presentation/d/1H5qk9D169Xa-h6PV36BCKWZC3C6Cgfi3a8V4QAKwGRU/edit#slide=id.gc6f9e470d_0_0
 
