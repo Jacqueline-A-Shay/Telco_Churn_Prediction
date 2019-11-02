@@ -13,7 +13,7 @@
 >
 > auto payment (credit card or bank transfer) (avg of 11 months longer tenure)
 
-**May want to promote these two features more to non-contract customers due to the observed longer tenure, at NO COST for our company.**
+**Promotion of these two features to non-contract customers may improve customer retention, due to the observed longer tenure.  Benefit of this strategy is, this is at NO COST for our company.**
 
 
 
